@@ -1,8 +1,45 @@
-# React + Vite
+# 🎵 Spotify Clone - Streaming Experience 🚀  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌎 English  
 
-Currently, two official plugins are available:
+Welcome to my **Spotify replication project**! 🎧  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+In this repository, you'll find a **music streaming web application** where I’ll be using:  
+
+✅ **HTML, CSS, JavaScript & React**  
+✅ **Modern UI design**  
+✅ **Dynamic components and interactivity**  
+
+This project is a great opportunity to **practice and improve front-end skills** while replicating one of the most popular streaming platforms.  
+
+### 🔧 Technologies  
+
+- HTML, CSS & JavaScript 🖥️  
+- React ⚛️  
+- API Integration (if applicable) 🌐  
+
+🚀 **Stay tuned for updates!**  
+
+---
+
+## 🇧🇷 Português  
+
+Bem-vindo ao meu projeto de **replicação do Spotify**! 🎧  
+
+Neste repositório, você encontrará uma **aplicação web de streaming de música**, onde utilizarei:  
+
+✅ **HTML, CSS, JavaScript & React**  
+✅ **Design moderno e responsivo**  
+✅ **Componentes dinâmicos e interatividade**  
+
+Este projeto é uma ótima oportunidade para **praticar e aprimorar habilidades front-end**, recriando uma das plataformas de streaming mais populares.  
+
+### 🔧 Tecnologias  
+
+- HTML, CSS & JavaScript 🖥️  
+- React ⚛️  
+- Integração com APIs (se aplicável) 🌐  
+
+🚀 **Acompanhe as atualizações!**  
+
+---
