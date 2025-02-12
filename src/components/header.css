@@ -21,11 +21,14 @@
     justify-content: end;
     align-items: center;
     padding-right: 20px;
-
 }
 
 #logospotify {
     height: 70%;
     width: 45px;
     margin-left: 20px;
+}
+
+.headerLink:hover {
+    text-decoration: underline;
 }

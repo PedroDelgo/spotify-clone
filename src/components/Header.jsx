@@ -11,7 +11,7 @@ const Header = () => {
         </div>
 
         <div className="headerRight">
-            <a href="">
+            <a className='headerLink' href="">
                 <h1>Spotify</h1>
             </a>
         </div>

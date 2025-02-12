@@ -1,0 +1,11 @@
+.maintexts {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.mainLink:hover {
+    text-decoration: underline;
+}
