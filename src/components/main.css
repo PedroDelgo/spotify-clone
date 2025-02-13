@@ -1,3 +1,11 @@
+.main {
+    background-color: green;
+    height: 100rem;
+    width: 100%;
+}
+
+
+
 .maintexts {
     display: flex;
     flex-direction: row;
@@ -9,3 +17,4 @@
 .mainLink:hover {
     text-decoration: underline;
 }
+
